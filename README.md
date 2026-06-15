@@ -5,16 +5,6 @@ This guide contains all essential links, credentials, setup steps, development t
 
 ---
 
-## 📚 Table of Contents
-- #-critical-hr--administrative-tasks  
-- #-ibm-internal-resources  
-- #-technical-access--credentials  
-- #-development-environment  
-- #-project-specific-resources  
-- #-useful-terminal-commands  
-
----
-
 ## ⚠️ Critical HR & Administrative Tasks
 
 ### ⏱️ Weekly Time Logging (REQUIRED)

@@ -82,9 +82,9 @@ This guide contains all essential links, credentials, setup steps, development t
 ```bash
 ssh root@<ipaddress>
 ex - ssh fhassan@ltcrain119-lp6.ltc.tadn.ibm.com
-ex - ssh root@ltcrain65-lp4.ltc.tadn.ibm.com
 ssh <your_username>@<lpar_hostname>
-ibm-dnf.sh
+ex - ssh root@ltcrain65-lp4.ltc.tadn.ibm.com
+ibm-dnf.sh - important subscription resource
 
 pwd             # Show current directory
 cd <dir>        # Change directory

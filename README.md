@@ -104,3 +104,10 @@ hostname -I     # Show IP address
 whoami          # Current user
 df -h           # Disk usage
 top             # Running processes
+
+CLANG tools (once lpar is set up)
+cd /root/nvme-cli
+
+rm -rf .build
+CC=clang CXX=clang meson setup .build
+ninja -C .build scan-build
